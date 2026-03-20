@@ -11,3 +11,4 @@ shipping_cost = weight + rate
 print(f"Shipping Cost: {shipping_cost} USD")
 <<<<<<< HEAD
  # Here is a new update by MattH-D
+# Here is another update by <your GitHub username>
